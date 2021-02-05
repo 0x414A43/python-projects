@@ -1,5 +1,5 @@
 ## https://www.youtube.com/watch?v=VchuKL44s6E
-## Upto: 7:30/1:19:40
+## Upto: 12:34/1:19:40
 
 #Data Types
 #Int
@@ -24,4 +24,14 @@ print("Hello", 'end', 87, False, end='\n')
 
 print("Hello", 'end', 87, False, end='|')
 print('Hello')
+
+#Variables
+hello = 'tim'
+print(hello)
+
+world = 'world'
+print(hello, world)
+
+name = input('Name: ')
+print(name)
 
